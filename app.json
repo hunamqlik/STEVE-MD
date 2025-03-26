@@ -93,9 +93,9 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "STEVE-MD.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『STEVE-MD』✦"
     }, 
 
     "HEART_REACT": {
