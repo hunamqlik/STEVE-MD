@@ -15,8 +15,7 @@
 **1. Fork This Repository**
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
-
-  <a href="https://github.com/hunamqlik/STEVE-MD/fork"><img title="STEVE-MD" src="https://img.shields.io/badge/FORK-STEVE-MD h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/hunamqlik/STEVE-MD/fork"><img title="STEVE-MD" src="https://img.shields.io/badge/FORK-STEVE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
