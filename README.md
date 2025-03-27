@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/hunamqlik/STEVE-MD/fork"><img title="STEVE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://hunamqlik-pair-code-xzcb.onrender.com/?">
+  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -39,12 +39,12 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2hunamqlik%2FSTEVE-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FLITE-MD) 
    
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hunamqlik/STEVE-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kingmalvin/LITE-MD.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF LITE-MD 
-- [Lord Malvin ](https://github.com/hunamqlik)
-- Creater and Owner Of STEVE-MD
+- [Lord Malvin ](https://github.com/techlord01)
+- Creater and Owner Of LITE-MD
 
 > LITE-MD Helper
-- [Malvin King](https://github.com/hunamqlik)
+- [Malvin King](https://github.com/kingmalvn)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
