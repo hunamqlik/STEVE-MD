@@ -3,17 +3,17 @@
 
 ![Bot Image](https://files.catbox.moe/kzfne8.jpeg)
 
-**Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/mayelprince)**
+**Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/hunamqlik)**
 
 ## 🔗 Repository
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/mayelprince/PRINCE-MDXI/fork)
+[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/hunamqlik/STEVE-MD/fork)
 
 ## 🔑 Get Session ID
 
 Generate your session ID for deployment:
 
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://princeweb.onrender.com)
+[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://hunamqlikweb.onrender.com)
 
 ## ⚙️ Setup Guide
 
@@ -23,13 +23,13 @@ Generate your session ID for deployment:
 
 ## 🚀 Deployment Options
 
-- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmayelprince%2FPRINCE-MDXI)  
+- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fhunamqlik%2FSTEVE-MD)  
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
   [Watch on YouTube](https://www.youtube.com/@princetech11)
 
-- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mayelprince/PRINCE-MDXI.git)
+- [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hunamqlik/STEVE-MD.git)
   
   **📺 Render Deployment Tutorial:**  (not avialable)
   
@@ -59,4 +59,4 @@ Stay updated by joining our official WhatsApp channel:
 
 ## 🙏 Thank You!
 
-**Developed by [PRINCE MAYEL](https://github.com/mayelprince)**
+**Developed by [PRINCE MAYEL](https://github.com/hunamqlik)**
