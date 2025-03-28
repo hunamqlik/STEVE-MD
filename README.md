@@ -16,7 +16,7 @@
 - **ALWAYS_ONLINE_OFFLINE 🚀**
 - **STATUS_REPLY_REACT 🚀**
 - **ON_AND_OFF_DATABASE🚀**
-- © ***POWERD BY SILENTLOVER432***
+- © ***POWERD BY hunamqlik***
 
 ---------
 
@@ -29,7 +29,7 @@
 
 -------
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰SILENT-SOBX-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰STEVE-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
  
 ------------
 
@@ -48,13 +48,13 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD🚀&description=🥂❤�
   <p align="center">
    <!-- Repo Views -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER0432%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/SILENTLOVER0432?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER0432?label=Followers&style=social"></a>
-<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-MD?&style=social"></a>
+ <a href="https://github.com/hunamqlik?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/hunamqlik?label=Followers&style=social"></a>
+<a href="https://github.com/hunamqlik/STEVE-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/hunamqlik/STEVE-MD?&style=social"></a>
 <a
-href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-MD?style=social"></a>
-<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER0432/SILENT-SOBX-MD?label=Watching&style=social"></a>
+href="https://github.com/hunamqlik/STEVE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-MD?style=social"></a>
+<a href="https://github.com/hunamqlik/STEVE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hunamqlik/STEVE-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SILENTLOVER0432/SILENT-SOBX-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/hunamqlik/STEVE-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER432&color=pink&style=plastic" alt="Developer Badge">
                   
@@ -65,7 +65,7 @@ href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img ti
 
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" />
   
-`© CREATED BY SILENTLOVER432`
+`© CREATED BY Zoraib Malik`
 -
 
 ------------
@@ -82,13 +82,13 @@ href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img ti
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER0432%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/hunamqlik/STEVE-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-MD?style=social)
+![stars](https://img.shields.io/github/stars/hunamqlik/STEVE-MD?style=social)
 
 
-[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/fork)
+[![FORK STEVE-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/hunamqlik/STEVE-MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
@@ -190,7 +190,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 ------------
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER0432/SILENT-SOBX-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/hunamqlik/STEVE-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 ----------
 
@@ -200,7 +200,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER0432/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/hunamqlik/STEVE-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -315,7 +315,7 @@ jobs:
 
 -----------
 
-**⚠️THANKS FOR USING SILENT-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SILENT-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY SILENTLOVER432 KING OF WHATSAPP♥️☣️🥂**
+**⚠️THANKS FOR USING STEVE-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE STEVE-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY STEVE-MD KING OF WHATSAPP♥️☣️🥂**
 
 ------------
 
